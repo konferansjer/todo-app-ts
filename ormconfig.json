@@ -1,0 +1,14 @@
+{
+  "name": "default",
+  "type": "mongodb",
+  "host": "ds111754.mlab.com",
+  "port": 11754,
+  "username": "admin-test",
+  "password": "test123",
+  "database": "test-gql-app",
+  "synchronize": true,
+  "logging": true,
+  "entities": [
+    "src/entity/*.*"
+  ]
+}
